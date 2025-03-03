@@ -1,0 +1,61 @@
+[2025-03-02 12:29:00] DEBUG: Start creating the BTree object...
+[2025-03-02 12:29:00] DEBUG: BTree object created!
+[2025-03-02 12:31:07] DEBUG: Start creating the BTree object...
+[2025-03-02 12:31:07] DEBUG: BTree object created!
+[2025-03-02 12:35:01] DEBUG: Start creating the BTree object...
+[2025-03-02 12:35:01] DEBUG: BTree object created!
+[2025-03-02 12:35:22] DEBUG: Start creating the BTree object...
+[2025-03-02 12:35:22] DEBUG: BTree object created!
+[2025-03-02 12:35:27] DEBUG: Start creating the BTree object...
+[2025-03-02 12:35:27] DEBUG: BTree object created!
+[2025-03-02 12:35:43] DEBUG: Start creating the BTree object...
+[2025-03-02 12:35:43] DEBUG: BTree object created!
+[2025-03-02 12:35:45] ERROR: 2 is already in the BTree (unique values only).
+[2025-03-02 12:38:09] ERROR: 2 is already in the BTree (unique values only).
+[2025-03-02 12:38:09] ERROR: 2 is already in the BTree (unique values only).
+[2025-03-02 12:38:10] ERROR: 2 is already in the BTree (unique values only).
+[2025-03-02 12:38:10] ERROR: 2 is already in the BTree (unique values only).
+[2025-03-02 12:38:10] ERROR: 2 is already in the BTree (unique values only).
+[2025-03-02 12:38:11] ERROR: 3 is already in the BTree (unique values only).
+[2025-03-02 12:38:12] ERROR: 3 is already in the BTree (unique values only).
+[2025-03-02 12:38:12] ERROR: 3 is already in the BTree (unique values only).
+[2025-03-02 12:38:12] ERROR: 3 is already in the BTree (unique values only).
+[2025-03-02 12:47:44] DEBUG: Start creating the BTree object...
+[2025-03-02 12:47:44] DEBUG: BTree object created!
+[2025-03-02 12:47:45] INFO: 1 - 1
+[2025-03-02 12:47:52] INFO: 2 - 2
+[2025-03-02 12:47:53] INFO: 3 - 3
+[2025-03-02 12:47:55] INFO: 4 - 4
+[2025-03-02 12:48:06] DEBUG: Start creating the BTree object...
+[2025-03-02 12:48:06] DEBUG: BTree object created!
+[2025-03-02 12:48:06] INFO: 1 - 1
+[2025-03-02 12:48:41] DEBUG: Start creating the BTree object...
+[2025-03-02 12:48:41] DEBUG: BTree object created!
+[2025-03-02 12:48:41] INFO: 1 - 1
+[2025-03-02 12:48:43] INFO: 2 - 2
+[2025-03-02 12:48:43] INFO: 3 - 3
+[2025-03-02 12:48:44] ERROR: 3 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-02 12:48:45] ERROR: 3 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-02 12:48:46] INFO: 4 - 4
+[2025-03-03 11:14:39] DEBUG: Start creating the BTree object...
+[2025-03-03 11:14:39] DEBUG: BTree object created!
+[2025-03-03 11:16:57] DEBUG: Start creating the BTree object...
+[2025-03-03 11:16:57] DEBUG: BTree object created!
+[2025-03-03 11:17:01] DEBUG: Start creating the BTree object...
+[2025-03-03 11:17:01] DEBUG: BTree object created!
+[2025-03-03 11:17:05] ERROR: 4 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:05] ERROR: 4 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:05] ERROR: 4 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:05] ERROR: 4 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:05] ERROR: 4 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:41] DEBUG: Start creating the BTree object...
+[2025-03-03 11:17:41] DEBUG: BTree object created!
+[2025-03-03 11:17:47] ERROR: 4 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:47] ERROR: 4 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:48] ERROR: 4 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:48] ERROR: 4 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:48] ERROR: 4 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:48] ERROR: 4 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:49] ERROR: 4 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:50] ERROR: 6 is already in the BTree. You can only have unique values in the BTree.
+[2025-03-03 11:17:51] ERROR: 8 is already in the BTree. You can only have unique values in the BTree.
